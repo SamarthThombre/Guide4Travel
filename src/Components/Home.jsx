@@ -25,7 +25,7 @@ function Home() {
       </div>
       <div className='relative  '> 
         <div className='bg-gradient-to-t from-[#0B1D26] w-full h-28 absolute -top-28'> </div>
-        <div className='flex md:w-4/5 w-11/12 items-center m-auto p-6 text-white gap-5 relative -top-80'>
+        <div className='flex md:w-4/5 w-11/12 items-center m-auto p-6 text-white gap-5 relative '>
           <div className='absolute top-32 -left-6'>
             <p className='text-9xl opacity-10	font-bold'>01</p>
           </div>
@@ -36,7 +36,7 @@ function Home() {
           <img className='xl:w-[600px] md:w-[300px] ' src="src/assets/01.png" alt="image" />
         </div>
 
-        <div className='flex md:w-4/5 w-11/12 items-center mx-auto p-6 text-white gap-5 my-20 relative -top-80'>
+        <div className='flex md:w-4/5 w-11/12 items-center mx-auto p-6 text-white gap-5 my-20 relative '>
           <img className='xl:w-[600px] md:w-[300px] ' src="src/assets/a.png" alt="image" />
           <div className='relative'>
           <div className='absolute -top-12 '>
@@ -51,7 +51,7 @@ function Home() {
           
         </div>
 
-        <div className='flex md:w-4/5 w-11/12 items-center m-auto p-6 text-white gap-5 relative -top-80'>
+        <div className='flex md:w-4/5 w-11/12 items-center m-auto p-6 text-white gap-5 relative '>
           <div className='absolute top-32 -left-6'>
             <p className='text-9xl opacity-10	font-bold'>03</p>
           </div>

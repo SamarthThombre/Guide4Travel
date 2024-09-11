@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className='flex text-white p-6 mx-auto justify-between w-4/5 md:w-11/12'>
+    <div className='flex text-white p-6 mx-auto my-8 justify-between w-4/5 md:w-11/12'>
       <div className='flex flex-col text-white justify-between'>
         <div className='flex flex-col text-white gap-3 w-3/5 font-semibold'>
           <img src="src/assets/Logo.svg" className='w-20' alt="logo" />
